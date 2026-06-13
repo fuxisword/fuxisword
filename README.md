@@ -1,4 +1,4 @@
-## Hi there 👋
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=8j2m6j411oy8m7pa6b71i38jc&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=8j2m6j411oy8m7pa6b71i38jc&redirect=true)
 
 <!--
 **fuxisword/fuxisword** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
