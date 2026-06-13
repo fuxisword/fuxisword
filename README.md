@@ -4,7 +4,7 @@
   </a>
 
 <p align="center">
-  usually offtab or making a skin, w2i (i don't bite). everything u need to know about me is in my rentry ^_^. 
+  usually offtab or making a skin, w2i (i don't bite). usually in marvel or ow area, or with a friend. everything u need to know about me is in my rentry ^_^. 
 </p>
 
 <!--
