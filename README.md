@@ -1,7 +1,10 @@
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=8j2m6j411oy8m7pa6b71i38jc&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=d6d6d6&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <p align="center">
-  usually offtab or making a skin, w2i (i don't bite).
-  everything u need to know about me is in my rentry ^_^. 
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=8j2m6j411oy8m7pa6b71i38jc&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=d6d6d6&bar_color_cover=false">
+  </a>
+
+<p align="center">
+  usually offtab or making a skin, w2i (i don't bite). everything u need to know about me is in my rentry ^_^. 
 </p>
 
 <!--
